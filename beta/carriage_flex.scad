@@ -11,8 +11,8 @@ MBOLT=[[3,5.5],[4,7],[5,8],[6.3,12,5]];
 
 //--------Parameters----------------------
 M=3;       // use Bolt and nut M3=0 M4=1 M5=2 M6=3 
-granty=2;  //type of granty 0=square10x10  1=rod  2=Delta support
-Rrod=4.2;  // radius of rod use for granty
+granty=1;  //type of granty 0=square10x10  1=rod  2=Delta support
+Rrod=4.2;  // radius of rod want use for granty
 Offset=1;  //increase if not example if set 0.5 move down hole of 0.5mm
 //----------------------------------------
 
@@ -38,10 +38,10 @@ translate([0,-41-Offset,10])cylinder(h = 10, r=MBOLT[M][1]/2, $fn=6); //Hexagon
 //-------Cord regulator
 if (granty!=2){
 translate([11.5,-11,0])cylinder(h = 30, r=MBOLT[M][0]/2, $fn=36);     //Hole
-translate([11.5,-11,0])cylinder(h = 12, r=MBOLT[M][1]/2, $fn=6);      //Hexagon
+translate([11.5,-11,0])cylinder(h = 15, r=MBOLT[M][1]/2, $fn=6);      //Hexagon
 
 translate([-11.5,-15,0])cylinder(h = 30, r=MBOLT[M][0]/2, $fn=36);    //Hole
-translate([-11.5,-15,0])cylinder(h = 12, r=MBOLT[M][1]/2, $fn=6);     //Hexagon
+translate([-11.5,-15,0])cylinder(h = 15, r=MBOLT[M][1]/2, $fn=6);     //Hexagon
 }
 
 //-------Granty type

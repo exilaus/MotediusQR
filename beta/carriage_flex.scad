@@ -1,3 +1,4 @@
+
 MBOLT=[[3,5.5],[4,7],[5,8],[6.3,12,5]];
 //--------Reference
 // V Type by Shauki Bagdadi
@@ -17,6 +18,7 @@ Offset=1;  //increase if not example if set 0.5 move down hole of 0.5mm
 //----------------------------------------
 
 
+
 difference(){
 hull() {
 translate([23,0,0])cylinder(h = 20, r=10, $fn=36);
@@ -24,7 +26,9 @@ translate([-23,0,0])cylinder(h = 20, r=10, $fn=36);
 translate([0,-42-Offset,0])cylinder(h = 20, r=7, $fn=36);
 }
 
-rotate([0,90,0])translate([-1,-21,-45])cylinder(h = 80, r=13.5, $fn=36);
+scale([0.43,0.43,1])translate([-2,-55,22])import("logo.stl", convexity = 5);
+rotate([0,90,0])translate([-4,-21,-45])cylinder(h = 80, r=13.5, $fn=36);
+
 
 //-------Wheels holes
 translate([22.5,0,0])cylinder(h = 30, r=MBOLT[M][0]/2, $fn=60);         //Hole
@@ -70,3 +74,4 @@ translate([0,-20.5,0]) {
 //	cylinder(h = 12, r=MBOLT[0][1]/2, $fn=6);     //Hexagon
 	}
 }}
+

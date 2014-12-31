@@ -26,7 +26,7 @@ translate([-23,0,0])cylinder(h = 20, r=10, $fn=36);
 translate([0,-42-Offset,0])cylinder(h = 20, r=7, $fn=36);
 }
 
-scale([0.43,0.43,1])translate([-2,-55,26.8])import("logo.stl", convexity = 5);
+scale([0.43,0.43,1])translate([-2,-55,22.8])import("logo.stl", convexity = 5);
 rotate([0,90,0])translate([-0,-21,-45])cylinder(h = 80, r=13.5, $fn=36);
 
 

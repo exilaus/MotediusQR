@@ -1,5 +1,5 @@
 
-MBOLT=[[3,5.5],[4,7],[5,8],[6.3,12,5]];
+MBOLT=[[3,5.5],[4,7],[5,8],[6.5,12,5]];
 //--------Reference
 // V Type by Shauki Bagdadi
 // Rod Type by Shauki Bagdadi
@@ -12,9 +12,9 @@ MBOLT=[[3,5.5],[4,7],[5,8],[6.3,12,5]];
 
 //--------Parameters----------------------
 M=3;       // use Bolt and nut M3=0 M4=1 M5=2 M6=3 
-granty=1;  //type of granty 0=square10x10  1=rod  2=Delta support
+granty=1;  //type of granty 0=square10x10  1=rod  2=Delta support 3=gopro
 Rrod=4.2;  // radius of rod want use for granty
-Offset=1;  //increase if not example if set 0.5 move down hole of 0.5mm
+Offset=0.7;  //increase if not example if set 0.5 move down hole of 0.5mm
 //----------------------------------------
 
 
@@ -26,8 +26,8 @@ translate([-23,0,0])cylinder(h = 20, r=10, $fn=36);
 translate([0,-42-Offset,0])cylinder(h = 20, r=7, $fn=36);
 }
 
-scale([0.43,0.43,1])translate([-2,-55,22])import("logo.stl", convexity = 5);
-rotate([0,90,0])translate([-4,-21,-45])cylinder(h = 80, r=13.5, $fn=36);
+scale([0.43,0.43,1])translate([-2,-55,22.8])import("logo.stl", convexity = 5);
+rotate([0,90,0])translate([-0,-21,-45])cylinder(h = 80, r=13.5, $fn=36);
 
 
 //-------Wheels holes
@@ -40,7 +40,7 @@ translate([-22.5,0,10])cylinder(h = 10, r=MBOLT[M][1]/2, $fn=6);        //Hexago
 translate([0,-41-Offset,10])cylinder(h = 10, r=MBOLT[M][1]/2, $fn=6); //Hexagon
 
 //-------Cord regulator
-if (granty!=2){
+if (granty<2){
 translate([11.5,-11,0])cylinder(h = 30, r=MBOLT[M][0]/2, $fn=36);     //Hole
 translate([11.5,-11,0])cylinder(h = 15, r=MBOLT[M][1]/2, $fn=6);      //Hexagon
 
@@ -73,5 +73,13 @@ translate([0,-20.5,0]) {
 	cylinder(h = 30, r=MBOLT[0][0]/2, $fn=36); 
 //	cylinder(h = 12, r=MBOLT[0][1]/2, $fn=6);     //Hexagon
 	}
-}}
+}
+
+if (granty ==3) // Gopro support hole Mauro Manco
+{
+translate([0,-16,0])cylinder(h = 30, r=3.5, $fn=36);
+}
+
+
+}
 

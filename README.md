@@ -7,9 +7,9 @@ BOM
 ~30pcs t-nuts 
 ~30pcs M4 6mm  
 
--- IGUS (need take code update soon)
-2pcs  AWMP-10 (lenght depends of your build size)
-2pc   RJMP-01-10  alternative are LM10UU but need maintenance
+-- IGUS  
+2pcs  AWMP-10 (lenght depends of your build size)  
+2pc   RJMP-01-10  alternative are LM10UU but need maintenance  
 
 -- Local HW store  
 16pcs m4 60mm with relative 1pcs nut + 1pcs nutlock + 2pcs washer for every bolt  

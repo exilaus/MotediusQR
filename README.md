@@ -3,13 +3,13 @@ scalable - essential 3d printer boxable
 
 BOM  
 -- Motedis  
-15pcs motedius profiles type b 6  (12frame 3zstage)  
+15pcs 2020 profiles type b 6  (12 for frame 3 pcs forzstage)
+2pcs Precision aluminium Shaft 10mm diameter (under Dynamics linear units)
 ~30pcs t-nuts 
 ~30pcs M4 6mm  
 
 -- IGUS  
-2pcs  AWMP-10 (lenght depends of your build size)  
-2pc   RJMP-01-10  alternative are LM10UU but need maintenance  
+2pc   RJMP-01-10  alternative are LM10UU but need maintenance - booth on ebay too. 
 
 -- Local HW store  
 16pcs m4 60mm with relative 1pcs nut + 1pcs nutlock + 2pcs washer for every bolt  

@@ -11,7 +11,7 @@ BOM
 -- Local HW store  
 16pcs m4 60mm with relative 1pcs nut + 1pcs nutlock + 2pcs washer for every bolt  
 12pcs m5 60mm with relative 1pcs nutlock + 2pcs washer  
-10 mt PP cord  1,8mm or 2.0mm
+1 spool PP cord  1,8mm or 2.0mm
 1pcs L alu profile (best 20x20x1.5 but 20x20x1 work too)  
 1pcs U alu profile (15x10 n)  need 15cm for every build  
 1pcs 8mm OD aluminum tube  
@@ -21,22 +21,22 @@ BOM
 16pcs  M3 10mm
 
 -- China stores. ebay,  or where you want buy
-5 flexible coupling 5*8  
-21 624VV V-grove bearing  
-4 stepper nema17
+5pcs flexible coupling 5*8  
+21pcs 624VV V-grove bearing  
+4pcs stepper nema17
 1pcs Brain (ramps kit or any marlin firmware hw compatible stepstick lcd ecc..)  
 1pcs mk2b  
 12pcs M6 plastic bolt with nut and if possible with washer  
 1pcs drive gear  
 2pcs RJMP-01-10  or alternative are LM10UU but need maintenance  
 
--- printed part/laser part
-4 pcs carriages  
-1 boomerang carriages  
-4 pcs stepper   
-1 filament drive pusher  
+-- Printed part/laser part
+4pcs carriages  
+1pcs boomerang carriages  
+4pcs pcs stepper   
+1pcs filament drive pusher  
 
---wheels by me  
+--Wheels by me  
 12 white wheels  
 4 red wheels  
 

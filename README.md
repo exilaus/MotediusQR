@@ -17,7 +17,7 @@ BOM
 1pcs 8mm OD aluminum tube  
 1pcs M8 rod  
 1pcs M8 Long nut (better if in bronze)  
-19D rubber irrigation tube (need 4pcs of 25mm)
+19D rubber irrigation tube (need 4pcs of 25mm)  
 16pcs  M3 10mm
 
 -- China stores. ebay,  or where you want buy

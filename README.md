@@ -3,8 +3,8 @@ scalable - essential 3d printer boxable
 
 BOM  
 -- Motedis  
-15pcs 2020 profiles type b 6  (12 for frame 3 pcs forzstage)
-2pcs Precision aluminium Shaft 10mm diameter (under Dynamics linear units)
+15pcs 2020 profiles type b 6  (12 for frame 3 pcs forzstage)  
+2pcs Precision aluminium Shaft 10mm diameter (under Dynamics linear units)  
 ~30pcs t-nuts 
 ~30pcs M4 6mm  
 

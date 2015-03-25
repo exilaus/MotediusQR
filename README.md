@@ -31,12 +31,12 @@ BOM
 2pcs RJMP-01-10  or alternative are LM10UU but need maintenance  
 
 -- printed part/laser part
-4 pcs carriages 
-1 boomerang carriages
-4 pcs stepper 
-1 filament drive pusher
+4 pcs carriages  
+1 boomerang carriages  
+4 pcs stepper   
+1 filament drive pusher  
 
---wheels by me
-12 white wheels
-4 red wheels
+--wheels by me  
+12 white wheels  
+4 red wheels  
 

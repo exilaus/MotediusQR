@@ -30,11 +30,12 @@ BOM
 1pcs drive gear  
 2pcs RJMP-01-10  or alternative are LM10UU but need maintenance  
 
--- Printed part/laser part
+-- Printed part/laser/home made part
 4pcs carriages  
 1pcs boomerang carriages  
 4pcs pcs stepper   
 1pcs filament drive pusher  
+4pcs springs(or high-load rubbers)
 
 --Wheels by me  
 12 white wheels  

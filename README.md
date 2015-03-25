@@ -11,7 +11,7 @@ BOM
 -- Local HW store  
 16pcs m4 60mm with relative 1pcs nut + 1pcs nutlock + 2pcs washer for every bolt  
 12pcs m5 60mm with relative 1pcs nutlock + 2pcs washer  
-1 spool PP cord  1,8mm or 2.0mm
+1 spool PP cord  1,8mm or 2.0mm  
 1pcs L alu profile (best 20x20x1.5 but 20x20x1 work too)  
 1pcs U alu profile (15x10 n)  need 15cm for every build  
 1pcs 8mm OD aluminum tube  

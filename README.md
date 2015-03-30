@@ -5,8 +5,8 @@ BOM
 -- Motedis  
 15pcs 2020 profiles type b 6  (12 for frame 3 pcs forzstage)  
 2pcs Precision aluminium Shaft 10mm diameter (under Dynamics linear units)  
-~30pcs t-nuts   
-~30pcs M4 6mm  
+~40pcs t-nuts   
+~40pcs M4 6mm  
 
 -- Local HW store  
 16pcs m4 60mm with relative 1pcs nut + 1pcs nutlock + 2pcs washer for every bolt  

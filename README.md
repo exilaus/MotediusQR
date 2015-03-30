@@ -20,7 +20,7 @@ BOM
 19D rubber irrigation tube (need 4pcs of 25mm)  
 16pcs  M3 10mm
 
--- China stores. ebay,  or where you want buy
+-- China stores. ebay,  or where you want buy  
 5pcs flexible coupling 5*8  
 21pcs 624VV V-grove bearing  
 4pcs stepper nema17

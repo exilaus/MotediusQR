@@ -17,7 +17,7 @@ BOM
 1pcs 8mm OD aluminum tube  
 1pcs M8 rod  
 1pcs M8 Long nut (better if in bronze)  
-19D rubber irrigation tube (need 4pcs of 25mm)  
+19D rubber irrigation tube (need 4pcs of 25mm)  ----- testing without it.
 16pcs  M3 10mm
 
 -- China stores. ebay,  or where you want buy  
@@ -29,6 +29,7 @@ BOM
 12pcs M6 plastic bolt with nut and if possible with washer  
 1pcs drive gear  
 2pcs RJMP-01-10  or alternative are LM10UU but need maintenance  
+1 hotend
 
 -- Printed part/laser/home made part
 4pcs carriages  

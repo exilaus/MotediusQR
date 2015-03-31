@@ -5,8 +5,8 @@ BOM
 -- Motedis  
 15pcs 2020 profiles type b 6  (12 for frame 3 pcs forzstage)  
 2pcs Precision aluminium Shaft 10mm diameter (under Dynamics linear units)  
-~30pcs t-nuts   
-~30pcs M4 6mm  
+~40pcs t-nuts   
+~40pcs M4 6mm  
 
 -- Local HW store  
 16pcs m4 60mm with relative 1pcs nut + 1pcs nutlock + 2pcs washer for every bolt  
@@ -17,10 +17,10 @@ BOM
 1pcs 8mm OD aluminum tube  
 1pcs M8 rod  
 1pcs M8 Long nut (better if in bronze)  
-19D rubber irrigation tube (need 4pcs of 25mm)  
+19D rubber irrigation tube (need 4pcs of 25mm)  ----- testing without it.
 16pcs  M3 10mm
 
--- China stores. ebay,  or where you want buy
+-- China stores. ebay,  or where you want buy  
 5pcs flexible coupling 5*8  
 21pcs 624VV V-grove bearing  
 4pcs stepper nema17
@@ -29,6 +29,7 @@ BOM
 12pcs M6 plastic bolt with nut and if possible with washer  
 1pcs drive gear  
 2pcs RJMP-01-10  or alternative are LM10UU but need maintenance  
+1 hotend
 
 -- Printed part/laser/home made part
 4pcs carriages  

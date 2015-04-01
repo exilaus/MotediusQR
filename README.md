@@ -1,7 +1,7 @@
 # MotediusQR V2
 scalable - essential 3d printer boxable
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=4r6OwWc95So)
+(https://www.youtube.com/watch?v=4r6OwWc95So)
 
 
 # BOM  

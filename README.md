@@ -1,7 +1,10 @@
 # MotediusQR V2
 scalable - essential 3d printer boxable
 
-BOM  
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=4r6OwWc95So)
+
+
+# BOM  
 -- Motedis  
 15pcs 2020 profiles type b 6  (12 for frame 3 pcs forzstage)  
 2pcs Precision aluminium Shaft 10mm diameter (under Dynamics linear units)  

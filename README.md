@@ -2,7 +2,8 @@
 scalable - essential 3d printer boxable
 
 (https://www.youtube.com/watch?v=4r6OwWc95So)
-
+https://3dwarehouse.sketchup.com/embed.html?mid=u107f6abe-baee-4964-b836-aa7261fe33d5&width=400&height=300
+<iframe src="https://3dwarehouse.sketchup.com/embed.html?mid=u107f6abe-baee-4964-b836-aa7261fe33d5&width=400&height=300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="400" height="300" allowfullscreen></iframe>
 
 # BOM  
 -- Motedis  

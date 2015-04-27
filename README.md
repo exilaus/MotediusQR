@@ -1,10 +1,21 @@
 # MotediusQR V2
 scalable - essential 3d printer boxable
+video  
+(https://www.youtube.com/watch?v=4r6OwWc95So)  
 
-BOM  
+3d view  
+https://3dwarehouse.sketchup.com/embed.html?mid=u107f6abe-baee-4964-b836-aa7261fe33d5&width=400&height=300
+
+
+https://3dwarehouse.sketchup.com/embed.html?mid=u107f6abe-baee-4964-b836-aa7261fe33d5&width=400&height=300
+
+<iframe src="https://3dwarehouse.sketchup.com/embed.html?mid=u107f6abe-baee-4964-b836-aa7261fe33d5&width=400&height=300" frameborder="0" allowfullscreen="allowfullscreen"></iframe>  
+
+# BOM  
 -- Motedis  
 15pcs 2020 profiles type b 6  (12 for frame 3 pcs forzstage)  
 2pcs Precision aluminium Shaft 10mm diameter (under Dynamics linear units)  
+4 angle for 2020   
 ~40pcs t-nuts   
 ~40pcs M4 6mm  
 
